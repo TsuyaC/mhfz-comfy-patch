@@ -1,0 +1,164 @@
+*************************
+この文書について
+
+この度はモンスターハンター フロンティアＺをご利用頂き、誠にありがとうございます。
+本製品をプレイされる前に、ご一読ください。
+
+※このReadmeは特に断りが無い場合、2019年1月時点の内容です。
+　このため本文中の仕様やURLは変更されている場合がありますので、あらかじめご了承ください。
+　最新の情報はモンスターハンター フロンティアＺ（以下、MHF-Ｚ）公式メンバーサイトでご確認ください。
+
+●カプコンオンラインゲームズをご利用のお客様
+　http://cog-members.mhf-z.jp/
+
+●DMMオンラインゲームをご利用のお客様
+　http://dmm-members.mhf-z.jp/
+
+●ハンゲームをご利用のお客様
+　http://members-mhf-z.hangame.co.jp/
+
+*************************
+
+【目次】
+1. 動作環境
+  (1)オリジナル版
+  (2)High Grade Edition
+2. Microsoft(R) DirectX(R) について
+3. 著作権情報
+
+
+1. 動作環境
+ご利用のパソコン環境に合わせ「オリジナル版」「High Grade Edition」のどちらかを選んでプレイすることが可能です。
+「High Grade Edition」のプレイにあたっては追加でのコース購入やパッケージ購入の必要はございません。
+
+  (1)オリジナル版
+----------------------------------------
+●OS：Windows(R) 7 日本語版【32bit版 / 64bit版】 / Windows(R) 8 日本語版【32bit版 / 64bit版】*1 / Windows(R) 10 日本語版【32bit版 / 64bit版】
+●CPU：Intel(R) Pentium(R) 4 2.0GHz以上
+　　　 AMD Athlon(TM)64 3500+以上
+　　　[以下、推奨CPU］
+　　　[Intel(R) Core(TM)2(Duo、Extreme、Quad)シリーズ］
+　　　[Intel(R) Core(TM)(i3、i5、i7)シリーズ］
+　　　[Intel(R) Core(TM)(i5-2000、i7-2000) シリーズ］*2
+　　　[AMD Athlon(TM)X2 デュアルコア・プロセッサ4600+以上］
+　　　[AMD Phenom(TM)シリーズ］
+　　　[AMD Athlon(TM)IIシリーズ］
+　　　[AMD Phenom(TM)IIシリーズ］
+　　　[AMD A-Series APU(A8-3850、A6-3650)] *3
+●メインメモリ：512MB以上
+　　　　　　　　[1GB以上推奨]
+●グラフィックスボード：NVIDIA(R) GeForce(R) FX 5700シリーズ以上
+　　　　　　　　　　　　NVIDIA(R) GeForce(R) 6600シリーズ以上
+　　　　　　　　　　　　NVIDIA(R) GeForce(R) 7600シリーズ以上
+　　　　　　　　　　　　ATI Radeon(TM) 9500シリーズ以上
+　　　　　　　　　　　　AMD Radeon(TM) HD 4350シリーズ以上
+　　　　　　　　　　　　AMD Radeon(TM) HD 5450シリーズ以上
+　　　　　　　　　　　　[以下、推奨グラフィックスボード］
+　　　　　　　　　　　　[NVIDIA(R) GeForce(R) 8600シリーズ以上］
+　　　　　　　　　　　　[NVIDIA(R) GeForce(R) 9600シリーズ以上］
+　　　　　　　　　　　　[NVIDIA(R) GeForce(R) 200シリーズ以上］
+　　　　　　　　　　　　[AMD Radeon(TM) HD 2600シリーズ以上］
+　　　　　　　　　　　　[AMD Radeon(TM) HD 3650シリーズ以上］
+　　　　　　　　　　　　[AMD Radeon(TM) HD 4650シリーズ以上］
+　　　　　　　　　　　　[AMD Radeon(TM) HD 5550シリーズ以上］
+　　　　　　　　　　　　[AMD Radeon(TM) HD 6450シリーズ以上］
+●DirectX(R)：DirectX(R) 9.0c以上
+●サウンド：DirectSound(R) 対応16bitステレオ44.1kHzまたは48kHz WAVE形式が再生可能なサウンドカード 
+●目安となる解像度：800×600
+　　　　 　　　　　 [1600×1200推奨]
+●ハードディスク空き容量：インストールするハードディスク内に20GB以上必須 *4
+●接続環境：ADSL1.0Mbps以上の常時接続インターネット回線
+
+
+  (2)High Grade Edition
+「High Grade Edition」は、ご利用のパソコンのスペックに合わせてオプションメニューの表示(グラフィック)より各種設定を変更することで、より快適なプレイ環境に設定することが可能です。
+----------------------------------------
+●OS：Windows(R) 7 日本語版【32bit版 / 64bit版】 / Windows(R) 8 日本語版【32bit版 / 64bit版】*1 / Windows(R) 10 日本語版【32bit版 / 64bit版】
+●CPU：Intel(R) Core(TM) i5 2.66GHz以上
+●メインメモリ：4GB以上
+●グラフィックスボード：NVIDIA(R) GeForce(R) GTX 660 (2GB) シリーズ以上
+                        または同クラスのグラフィックスボード以上
+●DirectX(R)：DirectX(R) 9.0c以上 *5
+●サウンド：DirectSound(R) 対応16bitステレオ44.1kHzまたは48kHz WAVE形式が再生可能なサウンドカード 
+●目安となる解像度：1920×1080
+●ハードディスク空き容量：インストールするハードディスク内に20GB以上必須 *4
+●接続環境：ADSL1.0Mbps以上の常時接続インターネット回線
+
+
+　*1　Windows(R) 7 / Windows(R) 8【64bit版】はWOW64(Windows on Windows 64)での動作です。
+　　　64bitネイティブサポートではございませんので、64bit版のOSでMHF-Ｚを起動しても、
+　　　動作などの性能があがるわけではございません。
+
+　*2　CPUの「Core(TM) i7-2000 シリーズ」のうち「Intel(R) HD グラフィックス 3000」を搭載している場合、
+　　　グラフィックスボードは必須ではありませんが、今後の開発状況により変更になる場合がございます。
+
+　*3　AMD A-Series APU(A8-3850、A6-3650) を搭載している場合、グラフィックスボードは必須ではありませんが、
+　　　今後の開発状況により変更になる場合がございます。
+
+　*4　ハードディスクの空き容量にはDirectX(R) インストール用の領域、OSのスワップファイル領域を含みます。
+　　　また、インストーラが一時的に使用する作業領域を含みます。
+　　　この作業領域はルートドライブ（通常はC:ドライブ）に必要で、インストール後に開放されます。
+
+  *5  DirectX(R) が既にインストールされているパソコンでも、DirectX(R) エンド ユーザー ランタイムが別途必要となります。
+
+※本製品をプレイする際は、他のアプリケーションを終了させてください。
+　他のアプリケーションが起動している場合、不具合が生じる可能性があります。
+※記載の動作環境を満たしていても、ご利用の環境によって不具合が生じる可能性があります。
+　あらかじめご了承ください。
+※OSによって必要な動作環境が別にございますので、ご確認ください。
+※OSのサービスパックやグラフィックスボードのドライバについては、お客様ご自身の責任において
+　製造元の公式サイトで提供されている最新のものをご利用ください。
+
+最新の動作環境については下記のURLをご確認ください。
+●カプコンオンラインゲームズをご利用のお客様
+http://cog.mhf-z.jp/
+
+●DMMオンラインゲームをご利用のお客様
+http://dmm.mhf-z.jp/
+
+●ハンゲームをご利用のお客様
+http://hangame.mhf-z.jp/
+
+
+2. Microsoft(R) DirectX(R) について
+----------------------------------------
+本製品のプレイには、Microsoft(R) DirectX(R) の9.0c以上が必要です。
+お客様のパソコンにインストールされているOSのバージョンをご確認のうえ、
+下記のURLより最新版のMicrosoft(R)DirectX(R)をインストールしてからのプレイをお勧めします。
+
+Microsoft(R) DirectX(R)
+http://www.microsoft.com/ja-jp/directx/
+
+※なお、Microsoft(R) DirectX(R) のバージョンアップに伴う一切の問題や責任などを株式会社カプコンでは負わないものとします。
+　あくまでもインストール（バージョンアップ）は、お客様の自己責任においてお願いいたします。
+　あらかじめご了承ください。
+
+
+3. 著作権情報
+----------------------------------------
+(C)CAPCOM CO., LTD. ALL RIGHTS RESERVED.
+
+Microsoft, DirectX, DirectSound,および Windows は、
+米国 Microsoft Corporation の、米国、日本およびその他の国における登録商標または商標です。
+
+Intel、インテル、Intel ロゴ、Intel Inside、Intel Inside ロゴ、
+Intel Core、Core Insideは、アメリカ合衆国およびその他の国におけるIntel Corporation の登録商標です。
+
+AMD、AMD Arrowロゴ、またそれらコンビネーションはAdvanced Micro Devices、Inc.の商標です。
+
+NVIDIA、GeForceは米国NVIDIA Corporationの商標もしくは登録商標です。
+
+Ogg Vorbis is Copyright (C)2019, Xiph.Org Foundation
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+・ Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+・ Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+・ Neither the name of the Xiph.org Foundation nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+This software is provided by the copyright holders and contributors “as is” and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. In no event shall the foundation or contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
+
+DynaFontは、DynaComware Taiwan Inc.の登録商標です。
+
+Font Design by Fontworks Inc.
+The font used on this product is provided by Hakusyu Fonts co,.Ltd.
