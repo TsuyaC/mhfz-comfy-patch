@@ -19,3 +19,13 @@ Check the release pages for detailed instructions!
 
 General instructions:
 - Replace client files in your MHFZ folder with the files in the patch archive
+
+# Writing issues
+
+Currently only clientside bugs will be accepted as issues on this repo. This **excludes** translation errors! 
+
+These are collected from a channel (#bug-reports) in the Frontier Shenanigans Discord.
+Any suggestions are also discussed in there for the time being.
+
+If you want to join Frontier Shenanigans on Discord:
+https://discord.gg/qn7GjGG2DR
