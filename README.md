@@ -2,6 +2,8 @@
 # **INACTIVE AS OF 12/2022**
 Moved on from anything MHFZ-related. Thanks for everyone's effort in helping to make this patch a thing.
 
+If you want to grab 1.2.0 unfinished files then [here you go](https://github.com/TsuyaC/mhfz-comfy-patch/releases/tag/v1.2.0b).
+
 ## What is this?
 A series of clientside fixes/adjustments for MHFZ to make it more comfy.
 
